@@ -3,6 +3,7 @@
   "wake_word": "Hey Glados",
   "author": "Brian Rehrey",
   "model": "./hey_glados.tflite",
+  "trained_languages": ["en","nl","fr","de","it","es","sv"],
   "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
